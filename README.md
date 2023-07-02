@@ -5,4 +5,4 @@ By using HTML, I have structured the content of the website, including headings,
 
 CSS has been employed to enhance the visual appearance of the website. With CSS, I have applied styles, such as colors, fonts, margins, and padding, to various elements of the web pages. This allows for a consistent and visually appealing design throughout the website.
 
-Overall, the project showcases a simplified representation of an Amazon-like website, demonstrating the use of HTML and CSS to create a user-friendly and visually engaging web interface.
+Overall, the project showcases a simplified representation of an Amazon-like website, demonstrating the use of HTML and CSS to create a user-friendly and visually engaging web interface
